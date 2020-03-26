@@ -10,6 +10,8 @@ namespace func
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine(" ");
         }
     }
 }
